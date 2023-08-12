@@ -2,14 +2,11 @@
   "openapi" : "3.0.0",
   "info" : {
     "title" : "API-Fest-KE-23",
-    "description" : "This is a test API for managing API Fest swag to demo how to create an API spec with atleast one endpoint. This",
+    "description" : "This is a test API for managing API Fest swag to demo how to create an API spec with atleast one endpoint. This API shows how swags would be managed through the endpoints with methods and responses.",
     "version" : "1.0.0"
   },
   "servers" : [ {
     "url" : "https://virtserver.swaggerhub.com/veldakarimi/APIFestKE23/1.0.0",
-    "description" : "SwaggerHub API Auto Mocking"
-  }, {
-    "url" : "https://virtserver.swaggerhub.com/veldakarimi/oscafest23/1.0.0",
     "description" : "SwaggerHub API Auto Mocking"
   } ],
   "paths" : {
